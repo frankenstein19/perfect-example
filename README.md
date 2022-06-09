@@ -1,4 +1,4 @@
-# perfectexample
+# Perfectexample
 
 A  Flutter project which include three screens Login, Sign Up and Dashboard.
 
@@ -22,9 +22,17 @@ For users who already have an Account goto LogIn screen
 If everything is correct then it will  send you to Dashboard screen.
 
 
-#Screenshots
-![Screenshot_20220608-224826](https://user-images.githubusercontent.com/32236301/172773065-92092764-daf9-496a-a2cd-4a24ddedd4a2.jpg)
-![Screenshot_20220608-224843](https://user-images.githubusercontent.com/32236301/172773074-5c122891-6a37-458d-ab6a-485fd24e3441.jpg)
-![Screenshot_20220608-224949](https://user-images.githubusercontent.com/32236301/172773075-9b95772b-66e9-4fed-8678-a3355dcfb86a.jpg)
+<table>
+  <tr>
+    <td>Login Screen</td>
+     <td>SignUp screen</td>
+     <td>Dashboard Screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/32236301/172773065-92092764-daf9-496a-a2cd-4a24ddedd4a2.jpg" width=270 height=560></td>
+    <td><img src="https://user-images.githubusercontent.com/32236301/172773074-5c122891-6a37-458d-ab6a-485fd24e3441.jpg" width=270 height=560></td>
+    <td><img src="https://user-images.githubusercontent.com/32236301/172773075-9b95772b-66e9-4fed-8678-a3355dcfb86a.jpg" width=270 height=560></td>
+  </tr>
+ </table>
 
 
