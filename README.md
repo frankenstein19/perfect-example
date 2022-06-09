@@ -1,16 +1,30 @@
 # perfectexample
 
-A new Flutter project with Include three screens Login, Sign Up and Dashboard.
+A  Flutter project which include three screens Login, Sign Up and Dashboard.
 
-## Getting Started
+Firebase Authentication is used for Login And Sign Up.
 
-This project is a starting point for a Flutter application.
+Bloc is used for state management.
 
-A few resources to get you started if this is your first Flutter project:
+## Getting Started with Application
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+For new user goto Sign Up screen from Login Screen
+- Enter your valid email address.
+- Enter eight or more charaters password.
+- Enter confirm password it should be same as above.
+- Then click on Sign up button
+If everything is correct then it will create account and send you to Dashboard screen.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For users who already have an Account goto LogIn screen
+- Enter your valid email address.
+- Enter your correct password.
+- Then click on Login button
+If everything is correct then it will  send you to Dashboard screen.
+
+
+#Screenshots
+![Screenshot_20220608-224826](https://user-images.githubusercontent.com/32236301/172773065-92092764-daf9-496a-a2cd-4a24ddedd4a2.jpg)
+![Screenshot_20220608-224843](https://user-images.githubusercontent.com/32236301/172773074-5c122891-6a37-458d-ab6a-485fd24e3441.jpg)
+![Screenshot_20220608-224949](https://user-images.githubusercontent.com/32236301/172773075-9b95772b-66e9-4fed-8678-a3355dcfb86a.jpg)
+
+
